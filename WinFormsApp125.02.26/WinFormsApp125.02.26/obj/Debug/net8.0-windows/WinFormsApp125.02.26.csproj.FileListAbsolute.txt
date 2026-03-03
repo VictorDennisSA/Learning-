@@ -1,0 +1,16 @@
+C:\Users\victor.dsalmeida\OneDrive - SENAC - SP\Visual\WinFormsApp125.02.26\WinFormsApp125.02.26\bin\Debug\net8.0-windows\WinFormsApp125.02.26.exe
+C:\Users\victor.dsalmeida\OneDrive - SENAC - SP\Visual\WinFormsApp125.02.26\WinFormsApp125.02.26\bin\Debug\net8.0-windows\WinFormsApp125.02.26.deps.json
+C:\Users\victor.dsalmeida\OneDrive - SENAC - SP\Visual\WinFormsApp125.02.26\WinFormsApp125.02.26\bin\Debug\net8.0-windows\WinFormsApp125.02.26.runtimeconfig.json
+C:\Users\victor.dsalmeida\OneDrive - SENAC - SP\Visual\WinFormsApp125.02.26\WinFormsApp125.02.26\bin\Debug\net8.0-windows\WinFormsApp125.02.26.dll
+C:\Users\victor.dsalmeida\OneDrive - SENAC - SP\Visual\WinFormsApp125.02.26\WinFormsApp125.02.26\bin\Debug\net8.0-windows\WinFormsApp125.02.26.pdb
+C:\Users\victor.dsalmeida\OneDrive - SENAC - SP\Visual\WinFormsApp125.02.26\WinFormsApp125.02.26\obj\Debug\net8.0-windows\WinFormsApp125._02._26.Form1.resources
+C:\Users\victor.dsalmeida\OneDrive - SENAC - SP\Visual\WinFormsApp125.02.26\WinFormsApp125.02.26\obj\Debug\net8.0-windows\WinFormsApp125.02.26.csproj.GenerateResource.cache
+C:\Users\victor.dsalmeida\OneDrive - SENAC - SP\Visual\WinFormsApp125.02.26\WinFormsApp125.02.26\obj\Debug\net8.0-windows\WinFormsApp125.02.26.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victor.dsalmeida\OneDrive - SENAC - SP\Visual\WinFormsApp125.02.26\WinFormsApp125.02.26\obj\Debug\net8.0-windows\WinFormsApp125.02.26.AssemblyInfoInputs.cache
+C:\Users\victor.dsalmeida\OneDrive - SENAC - SP\Visual\WinFormsApp125.02.26\WinFormsApp125.02.26\obj\Debug\net8.0-windows\WinFormsApp125.02.26.AssemblyInfo.cs
+C:\Users\victor.dsalmeida\OneDrive - SENAC - SP\Visual\WinFormsApp125.02.26\WinFormsApp125.02.26\obj\Debug\net8.0-windows\WinFormsApp125.02.26.csproj.CoreCompileInputs.cache
+C:\Users\victor.dsalmeida\OneDrive - SENAC - SP\Visual\WinFormsApp125.02.26\WinFormsApp125.02.26\obj\Debug\net8.0-windows\WinFormsApp125.02.26.dll
+C:\Users\victor.dsalmeida\OneDrive - SENAC - SP\Visual\WinFormsApp125.02.26\WinFormsApp125.02.26\obj\Debug\net8.0-windows\refint\WinFormsApp125.02.26.dll
+C:\Users\victor.dsalmeida\OneDrive - SENAC - SP\Visual\WinFormsApp125.02.26\WinFormsApp125.02.26\obj\Debug\net8.0-windows\WinFormsApp125.02.26.pdb
+C:\Users\victor.dsalmeida\OneDrive - SENAC - SP\Visual\WinFormsApp125.02.26\WinFormsApp125.02.26\obj\Debug\net8.0-windows\WinFormsApp125.02.26.genruntimeconfig.cache
+C:\Users\victor.dsalmeida\OneDrive - SENAC - SP\Visual\WinFormsApp125.02.26\WinFormsApp125.02.26\obj\Debug\net8.0-windows\ref\WinFormsApp125.02.26.dll

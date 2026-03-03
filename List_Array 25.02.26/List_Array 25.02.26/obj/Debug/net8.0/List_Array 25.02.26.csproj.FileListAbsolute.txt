@@ -1,0 +1,14 @@
+C:\Users\victor.dsalmeida\OneDrive - SENAC - SP\Visual\List_Array 25.02.26\List_Array 25.02.26\bin\Debug\net8.0\List_Array 25.02.26.exe
+C:\Users\victor.dsalmeida\OneDrive - SENAC - SP\Visual\List_Array 25.02.26\List_Array 25.02.26\bin\Debug\net8.0\List_Array 25.02.26.deps.json
+C:\Users\victor.dsalmeida\OneDrive - SENAC - SP\Visual\List_Array 25.02.26\List_Array 25.02.26\bin\Debug\net8.0\List_Array 25.02.26.runtimeconfig.json
+C:\Users\victor.dsalmeida\OneDrive - SENAC - SP\Visual\List_Array 25.02.26\List_Array 25.02.26\bin\Debug\net8.0\List_Array 25.02.26.dll
+C:\Users\victor.dsalmeida\OneDrive - SENAC - SP\Visual\List_Array 25.02.26\List_Array 25.02.26\bin\Debug\net8.0\List_Array 25.02.26.pdb
+C:\Users\victor.dsalmeida\OneDrive - SENAC - SP\Visual\List_Array 25.02.26\List_Array 25.02.26\obj\Debug\net8.0\List_Array 25.02.26.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victor.dsalmeida\OneDrive - SENAC - SP\Visual\List_Array 25.02.26\List_Array 25.02.26\obj\Debug\net8.0\List_Array 25.02.26.AssemblyInfoInputs.cache
+C:\Users\victor.dsalmeida\OneDrive - SENAC - SP\Visual\List_Array 25.02.26\List_Array 25.02.26\obj\Debug\net8.0\List_Array 25.02.26.AssemblyInfo.cs
+C:\Users\victor.dsalmeida\OneDrive - SENAC - SP\Visual\List_Array 25.02.26\List_Array 25.02.26\obj\Debug\net8.0\List_Array 25.02.26.csproj.CoreCompileInputs.cache
+C:\Users\victor.dsalmeida\OneDrive - SENAC - SP\Visual\List_Array 25.02.26\List_Array 25.02.26\obj\Debug\net8.0\List_Array 25.02.26.dll
+C:\Users\victor.dsalmeida\OneDrive - SENAC - SP\Visual\List_Array 25.02.26\List_Array 25.02.26\obj\Debug\net8.0\refint\List_Array 25.02.26.dll
+C:\Users\victor.dsalmeida\OneDrive - SENAC - SP\Visual\List_Array 25.02.26\List_Array 25.02.26\obj\Debug\net8.0\List_Array 25.02.26.pdb
+C:\Users\victor.dsalmeida\OneDrive - SENAC - SP\Visual\List_Array 25.02.26\List_Array 25.02.26\obj\Debug\net8.0\List_Array 25.02.26.genruntimeconfig.cache
+C:\Users\victor.dsalmeida\OneDrive - SENAC - SP\Visual\List_Array 25.02.26\List_Array 25.02.26\obj\Debug\net8.0\ref\List_Array 25.02.26.dll

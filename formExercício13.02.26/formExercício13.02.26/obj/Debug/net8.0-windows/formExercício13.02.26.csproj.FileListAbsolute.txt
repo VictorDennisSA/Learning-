@@ -1,0 +1,32 @@
+C:\Users\victor.dsalmeida\source\repos\formExercício13.02.26\formExercício13.02.26\bin\Debug\net8.0-windows\formExercício13.02.26.exe
+C:\Users\victor.dsalmeida\source\repos\formExercício13.02.26\formExercício13.02.26\bin\Debug\net8.0-windows\formExercício13.02.26.deps.json
+C:\Users\victor.dsalmeida\source\repos\formExercício13.02.26\formExercício13.02.26\bin\Debug\net8.0-windows\formExercício13.02.26.runtimeconfig.json
+C:\Users\victor.dsalmeida\source\repos\formExercício13.02.26\formExercício13.02.26\bin\Debug\net8.0-windows\formExercício13.02.26.dll
+C:\Users\victor.dsalmeida\source\repos\formExercício13.02.26\formExercício13.02.26\bin\Debug\net8.0-windows\formExercício13.02.26.pdb
+C:\Users\victor.dsalmeida\source\repos\formExercício13.02.26\formExercício13.02.26\obj\Debug\net8.0-windows\formExercício13._02._26.Form1.resources
+C:\Users\victor.dsalmeida\source\repos\formExercício13.02.26\formExercício13.02.26\obj\Debug\net8.0-windows\formExercício13.02.26.csproj.GenerateResource.cache
+C:\Users\victor.dsalmeida\source\repos\formExercício13.02.26\formExercício13.02.26\obj\Debug\net8.0-windows\formExercício13.02.26.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victor.dsalmeida\source\repos\formExercício13.02.26\formExercício13.02.26\obj\Debug\net8.0-windows\formExercício13.02.26.AssemblyInfoInputs.cache
+C:\Users\victor.dsalmeida\source\repos\formExercício13.02.26\formExercício13.02.26\obj\Debug\net8.0-windows\formExercício13.02.26.AssemblyInfo.cs
+C:\Users\victor.dsalmeida\source\repos\formExercício13.02.26\formExercício13.02.26\obj\Debug\net8.0-windows\formExercício13.02.26.csproj.CoreCompileInputs.cache
+C:\Users\victor.dsalmeida\source\repos\formExercício13.02.26\formExercício13.02.26\obj\Debug\net8.0-windows\formExercício13.02.26.dll
+C:\Users\victor.dsalmeida\source\repos\formExercício13.02.26\formExercício13.02.26\obj\Debug\net8.0-windows\refint\formExercício13.02.26.dll
+C:\Users\victor.dsalmeida\source\repos\formExercício13.02.26\formExercício13.02.26\obj\Debug\net8.0-windows\formExercício13.02.26.pdb
+C:\Users\victor.dsalmeida\source\repos\formExercício13.02.26\formExercício13.02.26\obj\Debug\net8.0-windows\formExercício13.02.26.genruntimeconfig.cache
+C:\Users\victor.dsalmeida\source\repos\formExercício13.02.26\formExercício13.02.26\obj\Debug\net8.0-windows\ref\formExercício13.02.26.dll
+C:\Users\Dennis\OneDrive - SENAC - SP\Área de Trabalho\formExercício13.02.26\formExercício13.02.26\bin\Debug\net8.0-windows\formExercício13.02.26.exe
+C:\Users\Dennis\OneDrive - SENAC - SP\Área de Trabalho\formExercício13.02.26\formExercício13.02.26\bin\Debug\net8.0-windows\formExercício13.02.26.deps.json
+C:\Users\Dennis\OneDrive - SENAC - SP\Área de Trabalho\formExercício13.02.26\formExercício13.02.26\bin\Debug\net8.0-windows\formExercício13.02.26.runtimeconfig.json
+C:\Users\Dennis\OneDrive - SENAC - SP\Área de Trabalho\formExercício13.02.26\formExercício13.02.26\bin\Debug\net8.0-windows\formExercício13.02.26.dll
+C:\Users\Dennis\OneDrive - SENAC - SP\Área de Trabalho\formExercício13.02.26\formExercício13.02.26\bin\Debug\net8.0-windows\formExercício13.02.26.pdb
+C:\Users\Dennis\OneDrive - SENAC - SP\Área de Trabalho\formExercício13.02.26\formExercício13.02.26\obj\Debug\net8.0-windows\formExercício13._02._26.Form1.resources
+C:\Users\Dennis\OneDrive - SENAC - SP\Área de Trabalho\formExercício13.02.26\formExercício13.02.26\obj\Debug\net8.0-windows\formExercício13.02.26.csproj.GenerateResource.cache
+C:\Users\Dennis\OneDrive - SENAC - SP\Área de Trabalho\formExercício13.02.26\formExercício13.02.26\obj\Debug\net8.0-windows\formExercício13.02.26.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dennis\OneDrive - SENAC - SP\Área de Trabalho\formExercício13.02.26\formExercício13.02.26\obj\Debug\net8.0-windows\formExercício13.02.26.AssemblyInfoInputs.cache
+C:\Users\Dennis\OneDrive - SENAC - SP\Área de Trabalho\formExercício13.02.26\formExercício13.02.26\obj\Debug\net8.0-windows\formExercício13.02.26.AssemblyInfo.cs
+C:\Users\Dennis\OneDrive - SENAC - SP\Área de Trabalho\formExercício13.02.26\formExercício13.02.26\obj\Debug\net8.0-windows\formExercício13.02.26.csproj.CoreCompileInputs.cache
+C:\Users\Dennis\OneDrive - SENAC - SP\Área de Trabalho\formExercício13.02.26\formExercício13.02.26\obj\Debug\net8.0-windows\formExercício13.02.26.dll
+C:\Users\Dennis\OneDrive - SENAC - SP\Área de Trabalho\formExercício13.02.26\formExercício13.02.26\obj\Debug\net8.0-windows\refint\formExercício13.02.26.dll
+C:\Users\Dennis\OneDrive - SENAC - SP\Área de Trabalho\formExercício13.02.26\formExercício13.02.26\obj\Debug\net8.0-windows\formExercício13.02.26.pdb
+C:\Users\Dennis\OneDrive - SENAC - SP\Área de Trabalho\formExercício13.02.26\formExercício13.02.26\obj\Debug\net8.0-windows\formExercício13.02.26.genruntimeconfig.cache
+C:\Users\Dennis\OneDrive - SENAC - SP\Área de Trabalho\formExercício13.02.26\formExercício13.02.26\obj\Debug\net8.0-windows\ref\formExercício13.02.26.dll

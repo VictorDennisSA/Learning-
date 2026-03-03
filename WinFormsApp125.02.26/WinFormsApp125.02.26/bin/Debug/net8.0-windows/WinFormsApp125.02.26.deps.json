@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "WinFormsApp125.02.26/1.0.0": {
+        "runtime": {
+          "WinFormsApp125.02.26.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WinFormsApp125.02.26/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
